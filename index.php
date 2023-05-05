@@ -9,5 +9,6 @@
 <body>
     <p>love you mamaaaaaa..! 😘😘😘😘</p>
     <h1>thanga pillaa</h1>
+    <marquee behavior="" direction="">hai kutima .. ithu na inga update pannathu.. love uu 😘</marquee>
 </body>
 </html>
